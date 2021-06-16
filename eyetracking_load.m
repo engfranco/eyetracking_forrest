@@ -1,7 +1,7 @@
 % just uploading the eyetracking data now 
 close all
 clear all 
-
+    
 %eye_track_data = dlmread('example_data/sub-01_ses-movie_task-movie_run-1_recording-eyegaze_physio.tsv');
 
 subjs = {'01', '02', '03', '04', '05', '06', '09', '10', '14','15','16', '17','18','19','20'};
